@@ -1,0 +1,2 @@
+This is a sprocketized version of box2d-js.
+The original is available from http://box2d-js.sourceforge.net/.
